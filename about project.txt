@@ -1,0 +1,8 @@
+Developed a fully functional e-commerce website with both client and admin user interface.User can register,login,edit their profiles,buy products 
+which leads them to a payment portal which was made by using paypal sandbox.Admin can upload new products on the server and can edit,delete or update any product,and 
+can view the orders made by user.
+Implemented authentication using postman application and mongoDB was used for database management.  
+Reactjs was used for the frontend along with reduxjs to know state of different requests made on the webpage.nodejs,express.js and mongodb were used in the backend.
+Axios was used to make http requests from nodejs in the backend server.
+Multer(a node.js middleware) was used in the backend to upload images on the server by admin user interface.
+used react and redux hooks(usestate,all type of use functions).
